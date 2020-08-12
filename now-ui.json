@@ -1,0 +1,26 @@
+{
+	"components": {
+	    "x-523899-incident-list": {
+	        "innerComponents": [],
+					"uiBuilder": {
+						"associatedTypes": ["global.core"],
+						"label": "My Test Task #4",
+						"icon": "document-fill",
+						"description": "Component's list"
+					},
+					"actions": [
+						{
+							"name": "Open Record",
+							"description": "Open modal window with information about record"
+						}
+					],		
+					"properties": [
+						{
+							"name": "backgroundColor",
+							"defaultValue": "green"
+						}
+					]		
+	    }
+	},
+	"scopeName": "x_523899_test_in_0"
+}
